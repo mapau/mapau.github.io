@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the DevNet Create Demo!
+Welcome to the Mapau Demo!
 ==================================
 
    This demo is for the 2019 DevNet Create talk, "Make an Instant Web Site with WebHooks." 
