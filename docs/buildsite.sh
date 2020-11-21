@@ -2,7 +2,7 @@
 set -x
 
 apt-get update
-apt-get -y install git rsync python3-sphinx
+apt-get -y install git rsync python3-sphinx python-pip
 pip install sphinx_rtd_theme
 
 pwd ls -lah
